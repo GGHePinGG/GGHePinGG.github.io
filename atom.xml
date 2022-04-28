@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gghepingg.github.io</id>
     <title>和平鸽的小站~</title>
-    <updated>2022-04-25T14:45:54.910Z</updated>
+    <updated>2022-04-28T05:01:45.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gghepingg.github.io"/>
     <link rel="self" href="https://gghepingg.github.io/atom.xml"/>
@@ -11,13 +11,52 @@
     <icon>https://gghepingg.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 和平鸽的小站~</rights>
     <entry>
-        <title type="html"><![CDATA[和平鸽的PVP整合包：Version1.4版本正式更新！]]></title>
-        <id>https://gghepingg.github.io/post/he-ping-ge-de-pvp-zheng-he-bao-version14-ban-ben-zheng-shi-geng-xin/</id>
-        <link href="https://gghepingg.github.io/post/he-ping-ge-de-pvp-zheng-he-bao-version14-ban-ben-zheng-shi-geng-xin/">
+        <title type="html"><![CDATA[手把手教你安装我的世界：国际版！（可以映射联机）]]></title>
+        <id>https://gghepingg.github.io/post/HowToInstallMCWorldwide/</id>
+        <link href="https://gghepingg.github.io/post/HowToInstallMCWorldwide/">
         </link>
         <updated>2022-04-25T14:44:23.000Z</updated>
-        <content type="html"><![CDATA[<p>你需要付费3.5个亿来观看下面内容 awa<br>
-预计更新时间：2022.5.3</p>
+        <content type="html"><![CDATA[<p>hello各位！今天就教你们如何安装我的世界国际版！<br>
+资源：<br>
+Hello Minecraft Launcher 整合包：https://pan.huang1111.cn/s/Ab6XiB 密码:HMCL<br>
+需要用到的网站：<br>
+littleskin.cn Littleskin皮肤站<br>
+启动器教程：<br>
+1.下载Hello Minecraft Launcher 整合包 并且打开文件<br>
+2.打开文件地址D:\GGpack\HMCL 如下图<img src="https://gghepingg.github.io/post-images/1651120563445.png" alt="" loading="lazy"><br>
+3.打开 HMCL-3.5.3.exe<br>
+4.打开后点击同意 如下图<img src="https://gghepingg.github.io/post-images/1651120676703.png" alt="" loading="lazy"><br>
+5.点击账户 如下图<img src="https://gghepingg.github.io/post-images/1651120753211.png" alt="" loading="lazy"><br>
+6.点击“添加认证服务器”按钮 如下图<img src="https://gghepingg.github.io/post-images/1651120858874.png" alt="" loading="lazy"><br>
+7.点击后 在屏幕出现的弹框输入 littleskin.cn 如下图<br>
+<img src="https://gghepingg.github.io/post-images/1651121011214.png" alt="" loading="lazy"><br>
+<img src="https://gghepingg.github.io/post-images/1651121016669.png" alt="" loading="lazy"><br>
+8.完成操作后点击Littleskin 如下图<br>
+<img src="https://gghepingg.github.io/post-images/1651121142977.png" alt="" loading="lazy"><br>
+9.如果你点击了 接下来会教你注册账号<br>
+注册账号教程：<br>
+1.打开你的浏览器 输入网址Littleskin.cn<br>
+2.点击注册 如下图<img src="https://gghepingg.github.io/post-images/1651121325558.png" alt="" loading="lazy"><br>
+3.点击后你会到这个界面 如下图<img src="https://gghepingg.github.io/post-images/1651121387347.png" alt="" loading="lazy"><br>
+4.按照他的填<br>
+5.点击注册后会跳转到这个界面 如下图<img src="https://gghepingg.github.io/post-images/1651121516719.png" alt="" loading="lazy"><br>
+6.点击“角色管理”<br>
+7.点击“添加新角色”<br>
+8.在角色名里输入你玩游戏所使用的ID（记住全英文！）<br>
+9.操作完成后，打开启动器<br>
+10.在刚刚跳出来的弹框里输入你刚刚注册网站用的账号和密码<br>
+11.启动器配置完成！下载游戏即可游玩啦！<br>
+皮肤配置教程：<br>
+1.打开littleskin.cn 网站<br>
+2.点击“皮肤库”<br>
+3.找到你喜欢的皮肤<br>
+4.点击进入皮肤详情页<br>
+5.点击添加至衣柜<br>
+6.点击“我的衣柜”<br>
+7.点击你刚刚添加的皮肤<br>
+8.点击使用<br>
+9.点击你自己创建的角色 就可以使用啦 披风也一样哦~<br>
+不懂？到群里@和平鸽GGHePinGG就可以了！五一期间都在哦~</p>
 ]]></content>
     </entry>
     <entry>
