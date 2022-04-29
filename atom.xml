@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gghepingg.github.io</id>
     <title>和平鸽的小站~</title>
-    <updated>2022-04-28T05:05:16.952Z</updated>
+    <updated>2022-04-29T03:21:08.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gghepingg.github.io"/>
     <link rel="self" href="https://gghepingg.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://gghepingg.github.io/images/avatar.png</logo>
     <icon>https://gghepingg.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 和平鸽的小站~</rights>
+    <entry>
+        <title type="html"><![CDATA[和平鸽のMinecraftPVP 客户端整合包 Version1.4更新]]></title>
+        <id>https://gghepingg.github.io/post/PVPPackVer14/</id>
+        <link href="https://gghepingg.github.io/post/PVPPackVer14/">
+        </link>
+        <updated>2022-04-29T02:48:43.000Z</updated>
+        <content type="html"><![CDATA[<p>五一节特别更新！<br>
+Version1.4更新内容：<br>
+-移除了EMCL启动器<br>
+-移除了Offline Lunar<br>
+-更新了Cheatbreaker Client<br>
+-更新了Labymod Client<br>
+-使用了安装程序 压缩后更小！<br>
+作者B站：https://space.bilibili.com/387110113<br>
+作者博客：https://gghepingg.github.io<br>
+作者爱发电：https://afdian.net/@GGHePinGG<br>
+下载链接：<br>
+【不限速】【注册登录】阿里云盘：https://www.aliyundrive.com/s/4qjBGFz713s 提取码：ox63<br>
+【不限速】【微信登录】 分秒帧网盘：https://mdl.ink/Ba87m5 密码：6666<br>
+【不限速】【免登录】Huang1111网盘：https://pan.huang1111.cn/s/E6A2Sb 提取码：6666<br>
+【不限速】【免登录】123云盘：https://www.123pan.com/s/fNT9-vPOHH 提取码：6666<br>
+【不限速】【免登录】萌云：https://moecloud.cn/s/g9oxfX 提取码：6666</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手把手教你安装我的世界：国际版！（可以映射联机）]]></title>
         <id>https://gghepingg.github.io/post/HowToInstallMCWorldwide/</id>
