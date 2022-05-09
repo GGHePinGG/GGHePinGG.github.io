@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gghepingg.github.io</id>
-    <title>和平鸽的小站~</title>
-    <updated>2022-05-08T08:33:49.031Z</updated>
+    <title>和平鸽の博客</title>
+    <updated>2022-05-09T05:30:56.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gghepingg.github.io"/>
     <link rel="self" href="https://gghepingg.github.io/atom.xml"/>
     <subtitle>这里是B站：和平鸽GGHePinGG的个人网站！</subtitle>
     <logo>https://gghepingg.github.io/images/avatar.png</logo>
     <icon>https://gghepingg.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 和平鸽的小站~</rights>
+    <rights>All rights reserved 2022, 和平鸽の博客</rights>
     <entry>
         <title type="html"><![CDATA[和平鸽のMinecraftPVP 客户端整合包 Version1.4更新]]></title>
         <id>https://gghepingg.github.io/post/PVPPackVer14/</id>
